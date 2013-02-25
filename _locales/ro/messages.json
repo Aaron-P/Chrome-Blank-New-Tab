@@ -1,0 +1,11 @@
+{
+	"extensionDescription": {
+		"message": "New tabs display a blank page."
+	},
+	"extensionName": {
+		"message": "Blank New Tab Page"
+	},
+	"newTabTitle": {
+		"message": "Filă nouă"
+	}
+}

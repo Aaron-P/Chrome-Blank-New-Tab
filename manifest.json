@@ -1,0 +1,9 @@
+{
+	"chrome_url_overrides": {"newtab": "newtab.html"},
+	"default_locale"      : "en",
+	"description"         : "__MSG_extensionDescription__",
+	"icons"               : {"48": "images/icon48.png", "128": "images/icon128.png"},
+	"manifest_version"    : 2,
+	"name"                : "__MSG_extensionName__",
+	"version"             : "1.0"
+}
